@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/asimsubedi/asimsubedi.github.io.git"
   },
-  "author": "",
+  "author": "asimsubedi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/asimsubedi/asimsubedi.github.io/issues"
   },
-  "homepage": "https://github.com/asimsubedi/asimsubedi.github.io#readme"
+  "homepage": "https://github.com/asimsubedi/asimsubedi.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
