@@ -49,3 +49,7 @@ section{
 .experience-style{
 	color: #222;
 }
+
+.resume-experience ol > li{
+	margin-bottom: 1.5em;
+}
