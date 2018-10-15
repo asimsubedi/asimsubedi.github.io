@@ -50,6 +50,8 @@ section{
 	color: #222;
 }
 
-.resume-experience ol > li{
+.resume-experience ol > li,
+.resume-portfolio ol > li,
+.resume-education ol > li{
 	margin-bottom: 1.5em;
 }
